@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { Instagram, ChevronLeft, ChevronRight, Menu, X } from 'lucide-react';
 
 const photos = [
-  'https://imgur.com/uuVD9mG.jpeg',
+  'https://imgur.com/o7YyCmP.jpeg',
   'https://imgur.com/PiTq1Yt.jpeg',
   'https://imgur.com/d45oQ8o.jpeg',
-  'https://imgur.com/ljl9KzW.jpeg',
+  'https://imgur.com/fGLe7Kj.jpeg',
   'https://imgur.com/QHHtFw1.jpeg',
   'https://imgur.com/149DmRK.jpeg',
   'https://imgur.com/kzm8frQ.jpeg',
