@@ -45,9 +45,8 @@ function App() {
   return (
     <div className="min-h-screen bg-black text-white">
       <header
-        className={`fixed w-full z-20 transition-all duration-300 ${
-          scrolled ? 'bg-black py-2' : 'bg-transparent py-4'
-        }`}
+        className={`fixed w-full z-20 transition-all duration-300 ${scrolled ? 'bg-black py-2' : 'bg-transparent py-4'
+          }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
           <h1 className="text-2xl font-bold font-serif">Larissa Sevegnani</h1>
@@ -187,10 +186,12 @@ function App() {
           <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-4xl font-bold mb-8 font-serif">Sobre Mim</h2>
             <p className="text-lg mb-8">
-              Sou Larissa Sevegnani, uma modelo apaixonada por moda e
-              fotografia. Com anos de experiência em passarelas e ensaios
-              fotográficos, busco sempre transmitir emoções e contar histórias
-              através das minhas imagens.
+              Sou Larissa Sevegnani, modelo profissional com sólida trajetória em passarelas 
+              e campanhas fotográficas. Minha paixão pela moda e pela fotografia é traduzida em 
+              cada trabalho, onde busco ir além do visual para criar conexões autênticas e inspiradoras.
+               Com uma presença de cena marcante e uma habilidade refinada em expressar emoções, me dedico
+                a colaborar com marcas e projetos que busquem destacar-se e contar histórias únicas. Estou
+                 sempre pronta para novos desafios que permitam trazer visibilidade e originalidade às suas criações.
             </p>
             <a
               href="#contact"
